@@ -1,2 +1,2 @@
-# Ruby_Day2
-Ruby jour 2 Peer Programming
+# Ruby_Day3
+Ruby jour 3 Peer Programming
